@@ -4,7 +4,7 @@
 한국어를 사용해서 [Wordle](https://www.nytimes.com/games/wordle/index.html) 퍼즐 게임을 할 수 있는 도구를 제공합니다. 
 
 ## 목차
-[05. Table] (#05-table)
+[05. Table](#05-table)
 
 ## 사용법
 해당 저장소의 코드를 npm을 사용해서 실행해주세요.
